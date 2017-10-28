@@ -1,2 +1,2 @@
 # javaswingcrud
-CRUD using swing and java
+CRUD using swing, JPA, Java and MVP
